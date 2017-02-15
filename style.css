@@ -81,7 +81,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url("1x1.png") repeat center rgb(241, 241, 241);
+    background: url("https://github.com/mohammedajaroud/cdn/blob/master/1x1.png?raw=true") repeat center rgb(241, 241, 241);
     font-family: Montserrat;
     zoom: 90%;
 }
