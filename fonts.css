@@ -9,31 +9,31 @@ width:700px;
 
 @font-face {
 font-family: 'DroidKufi-Bold';
-src: url('https://www.dropbox.com/s/optqob1e45eryy9/DroidKufi-Bold.eot?dl=0');
-src: url('https://www.dropbox.com/s/optqob1e45eryy9/DroidKufi-Bold.eot?dl=0?') format('embedded-opentype'),
-url('https://www.dropbox.com/s/jibsoqgz3utowga/DroidKufi-Bold.woff?dl=0') format('woff'),
-url('https://www.dropbox.com/s/5q0q0ivsm47rzro/DroidKufi-Bold.ttf?dl=0') format('truetype');}
+src: url('fonts/DroidKufi-Bold.eot');
+src: url('fonts/DroidKufi-Bold.eot?') format('embedded-opentype'),
+url('fonts/DroidKufi-Bold.woff?dl=0') format('woff'),
+url('fonts/DroidKufi-Bold.ttf?dl=0') format('truetype');}
  
 @font-face {
 font-family: 'DroidKufi-Regular';
-src: url('https://www.dropbox.com/s/xsqzawbro6ncpw0/DroidKufi-Regular.eot?dl=0');
-src: url('https://www.dropbox.com/s/xsqzawbro6ncpw0/DroidKufi-Regular.eot?dl=0?') format('embedded-opentype'),
-url('https://www.dropbox.com/s/i7iq7avic060311/DroidKufi-Regular.woff?dl=0') format('woff'),
-url('https://www.dropbox.com/s/bd8otokb9jlo8sy/DroidKufi-Regular.ttf?dl=0') format('truetype');}
+src: url('fonts/DroidKufi-Regular.eot');
+src: url('fonts/DroidKufi-Regular.eot?') format('embedded-opentype'),
+url('fonts/DroidKufi-Regular.woff') format('woff'),
+url('fonts/DroidKufi-Regular.ttf') format('truetype');}
  
 @font-face {
 font-family: 'DroidNaskh-Bold';
-src: url('https://www.dropbox.com/s/8toe54ers2euw4m/DroidNaskh-Bold.eot?dl=0');
-src: url('https://www.dropbox.com/s/8toe54ers2euw4m/DroidNaskh-Bold.eot?dl=0?') format('embedded-opentype'),
-url('https://www.dropbox.com/s/rohop7h1g8zxoto/DroidNaskh-Bold.woff?dl=0') format('woff'),
-url('https://www.dropbox.com/s/oo9f5bb8qqpoige/DroidNaskh-Bold.ttf?dl=0') format('truetype');}
+src: url('fonts/DroidNaskh-Bold.eot');
+src: url('fonts/DroidNaskh-Bold.eot?') format('embedded-opentype'),
+url('fonts/DroidNaskh-Bold.woff') format('woff'),
+url('fonts/DroidNaskh-Bold.ttf') format('truetype');}
  
 @font-face {
 font-family: 'DroidNaskh-Regular';
-src: url('https://www.dropbox.com/s/kfmo0micboom6o3/DroidNaskh-Regular.eot?dl=0');
-src: url('https://www.dropbox.com/s/kfmo0micboom6o3/DroidNaskh-Regular.eot?dl=0?') format('embedded-opentype'),
-url('https://www.dropbox.com/s/2fk3f1ag59a54k0/DroidNaskh-Regular.woff?dl=0') format('woff'),
-url('https://www.dropbox.com/s/xjm44u5t9gm4y4u/DroidNaskh-Regular.ttf?dl=0') format('truetype');  }
+src: url('fonts/DroidNaskh-Regular.eot');
+src: url('fonts/DroidNaskh-Regular.eot?') format('embedded-opentype'),
+url('fonts/DroidNaskh-Regular.woff') format('woff'),
+url('fonts/DroidNaskh-Regular.ttf') format('truetype');  }
 
 p {
 
