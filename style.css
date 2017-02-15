@@ -1,0 +1,345 @@
+@font-face {
+    font-family: 'MuseoSans-100';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_4_0-21c1087aad00457b59b5f18a1de8086c.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_4_0.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_4_0-ef291e46c6782f041b731800543b91af.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_4_0-fb0a35d274df9444cca00b171368bcb0.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'MuseoSans-100-italic';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_7_0-a534f137b6cae8647081a8bad57a1938.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_7_0.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_7_0-ff326b9bad73fd79bc2a3be6e4405e62.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_7_0-ace382659f9fb2f1b1270658f7054417.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'MuseoSans-300';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_1_0-174660e3bec7cf0309b18f3450fb477e.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_1_0.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_1_0-20fc3650b0021c5da59b1506db852c10.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_1_0-f07ea7b6503c79dd66991678c0d9bc58.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'MuseoSans-300-italic';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_6_0-7f9a3223b9bfefa6aff8de54b73e8d71.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_6_0.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_6_0-eb4e7d5a2ac68b617f3a6907e926d768.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_6_0-a626e2ce137c1847d9aad95060421a75.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'MuseoSans-500';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_3_0-5117381726f7ebfd010e2af3740fa310.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_3_0.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_3_0-7639a8e389ce31d3a4ace85b60a9124e.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_3_0-07bc7693d17a6f1e8b635035dc280159.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'MuseoSans-500-italic';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_8_0-886cdcbe22612287d1e3f7399c8a2a26.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_8_0.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_8_0-24da12cca4c7fe6cd00ba40c3781fb54.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_8_0-662ca1807335bbdb5417c1937ed0e0d4.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'MuseoSans-700';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_0_0-b4edcb41b8013da58e30144ecdcef347.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_0_0.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_0_0-a42248281ec29015bdc4f333417bfb76.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_0_0-2fbf48b84ae97527263d9db9bc025e1b.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'MuseoSans-700-italic';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_5_0-2bf15e3ab69c116161379dda46badaad.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_5_0.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_5_0-332e33d92312721c3dcde303fbdbb541.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_5_0-bfcd986797398081eb4cef6616ae3006.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'MuseoSans-900';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_9_0-09819ee16eb2dc271ab5d0860c1b2c5e.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_9_0.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_9_0-323c1ef1b6de0b2154c88107bc8e1d89.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_9_0-62fc9662277b0792be2f9d91e4bfb62e.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'MuseoSans-900-italic';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_2_0-50b260066c63b2f6fce247c6187ff544.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_2_0.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_2_0-a7ad2cb9aff22c49be8d2a2831e3ed41.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/245505_2_0-28cfe035649ffa71933e99f5ec4cf2c8.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: "SSStandard";
+    font-weight: normal;
+    font-style: normal;
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/ss-standard-d8b47194740f8c9958572451574a5811.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/ss-standard.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/ss-standard-d4367abc8f4f33bee30e1cb05fcad796.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/ss-standard-20175bf2ce8411dd3559df2c3716695c.ttf) format("truetype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/ss-standard.svg#SSStandard) format("svg")
+}
+
+@font-face {
+    font-family: 'HelveticaNeue-thin';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/helveticaneue-thin-48433d5edd5500e73c504f77e9b569d4.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/helveticaneue-thin.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/helveticaneue-thin-b38f8e6fb06568a2e47ed83475726daa.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/helveticaneue-thin-9ca0159b62a0a8c3fc776e28f7b1196e.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: 'HelveticaNeue-ultralight';
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/helveticaneue-ultralight-cbe39b61a497ab2a0ff646aba4b23d27.eot);
+    src: url(//cdn.livestream.com/website/bd645cb/assets/webfonts/helveticaneue-ultralight.eot?#iefix) format("embedded-opentype"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/helveticaneue-ultralight-0633d8eb270f0264c350e1d6c00246ea.woff) format("woff"), url(//cdn.livestream.com/website/bd645cb/assets/webfonts/helveticaneue-ultralight-adcba15603e0edbeefe49b817647b0ab.ttf) format("truetype")
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url("https://www.dropbox.com/s/58cue8njnx5dhze/1x1.png?dl=0") repeat center rgb(241, 241, 241);
+    font-family: Montserrat;
+    zoom: 90%;
+}
+
+#wrapper {
+    background: rgba(241, 241, 241, 0.17) center;
+    width: 85%;
+    height: 100%;
+    text-align: center;
+    position: center;
+}
+
+#footr a {
+    text-decoration: none;
+}
+
+.shahid-nav a {
+    text-decoration: none;
+}
+
+.box {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.img #box1 {
+    margin-left: 2px;
+    position: relative;
+}
+
+.img #video1 {
+    position: absolute;
+    margin-right: 1px;
+    margin-top: -33px;
+}
+
+strong {
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'MuseoSans-700';
+}
+
+#fanback {
+    display: none;
+    background: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+}
+
+#fan-exit {
+    width: 100%;
+    height: 100%;
+}
+
+#fanbox {
+    background: white;
+    width: 420px;
+    height: 270px;
+    position: absolute;
+    top: 58%;
+    left: 63%;
+    margin: -220px 0 0 -375px;
+    -webkit-box-shadow: inset 0 0 50px 0 #939393;
+    -moz-box-shadow: inset 0 0 50px 0 #939393;
+    box-shadow: inset 0 0 50px 0 #939393;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin: -220px 0 0 -375px;
+}
+
+#fanclose {
+    float: right;
+    cursor: pointer;
+    background: url(https://www.dropbox.com/s/13fua6h16jewzy7/button_cancel.png?dl=0) repeat;
+    height: 15px;
+    padding: 20px;
+    position: relative;
+    padding-right: 40px;
+    margin-top: -20px;
+    margin-right: -22px;
+}
+
+.remove-borda {
+    height: 1px;
+    width: 366px;
+    margin: 0 auto;
+    background: #F3F3F3;
+    margin-top: 16px;
+    position: relative;
+    margin-left: 20px;
+}
+
+#adsID {
+    display: inline-block;
+    width: 336px;
+    height: 280px;
+    margin-left: -177px;
+    position: absolute;
+    margin-top: 42px;
+    opacity: 0;
+    border: 3px solid #000000;
+}
+
+#ads-big-left {
+    display: inline;
+    width: 300px;
+    height: 100%;
+    left: 10px;
+    opacity: 5;
+    position: fixed;
+    margin-top: -170px;
+}
+
+#ads-big-right {
+    display: inline;
+    width: 300px;
+    height: 100%;
+    right: 10px;
+    opacity: 5;
+    position: fixed;
+    margin-top: -170px;
+}
+
+#ads-top {
+    /*opacity:0;*/
+}
+
+.adsltr-rrl {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#ads1-left {
+    margin-top: -10px
+}
+
+#ads1-right {
+    margin-top: -10px
+}
+
+#bannerfloatADS {
+    position: absolute;
+    height: 280px;
+    left: 505px;
+    top: 10px;
+    width: 338px;
+    position: fixed;
+}
+
+#h_icon2 {
+    height: 0px;
+    left: 250px;
+    position: absolute;
+    top: 70px;
+    width: 40px;
+}
+
+#b_icon2 {
+    display: none;
+    height: 60px;
+    left: 70px;
+    position: absolute;
+    top: 220px;
+    width: 20px;
+}
+
+img {
+    cursor: pointer;
+}
+
+.pos {
+    cursor: pointer;
+}
+
+video {
+    cursor: pointer;
+}
+
+.spanTXT {
+    font-size: 22px;
+    color: #007266;
+    font-family: DroidNaskh-Regular;
+    line-height: 28px;
+}
+
+.pTXT {
+    text-align: center;
+    background-color: rgba(50, 102, 213, 0.19);
+}
+
+.fb_iframe {
+    border: none;
+    overflow: hidden;
+    margin-top: -19px;
+    width: 402px;
+    height: 230px;
+}
+
+p {
+    text-align: center;
+}
+
+::-webkit-scrollbar {
+    background: #E6E9ED;
+    width: 12px
+}
+
+::-webkit-scrollbar-thumb {
+    background: #10D0DA!important
+}
+
+.post-title,
+.date-header {
+    display: none
+}
+
+.widget {
+    margin-top: -37px;
+}
+
+#blog-pager {
+    display: none
+}
+
+.status-msg-wrap {
+    margin-top: 70px;
+    display: none
+}
+
+.feed-links {
+    display: none
+}
+
+.fram {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0
+}
+
+#fr {
+    width: 100%;
+    min-height: 1510px;
+    border: none
+}
+
+.widget {
+    margin-top: -56px;
+}
+
+.section {
+    margin: -49px 15px;
+}
