@@ -81,7 +81,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url("https://www.dropbox.com/s/58cue8njnx5dhze/1x1.png?dl=0") repeat center rgb(241, 241, 241);
+    background: url("1x1.png") repeat center rgb(241, 241, 241);
     font-family: Montserrat;
     zoom: 90%;
 }
@@ -161,7 +161,7 @@ strong {
 #fanclose {
     float: right;
     cursor: pointer;
-    background: url(https://www.dropbox.com/s/13fua6h16jewzy7/button_cancel.png?dl=0) repeat;
+    background: url(button_cancel.png) repeat;
     height: 15px;
     padding: 20px;
     position: relative;
